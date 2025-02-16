@@ -1,0 +1,107 @@
+#
+# The first event should be birth.
+# The date should match start_date in content/index.md.
+#
+'1991-01-01':
+- based: Stansted
+  description: ''
+  doing: I was tiny
+  headline: 🐣 I was born
+
+'1996-01-01':
+- association: Bentfield Primary School
+  description: ''
+  doing: Student
+  headline: 📓 Primary School
+
+'1998-09-21':
+- description: My little sister H was born.
+  headline: 👶 Little Sister H
+
+'2000-01-01':
+- description: Placeholder for details about Technogames participation.
+  headline: 🤖 Technogames
+
+'2001-02-01':
+- description: My dad built a x86 computer from parts for me and my sister R to use.
+  headline: 🖥️ First access to a computer
+
+'2002-09-01':
+- based: Frinton
+  description: ''
+  headline: 🎓 High School
+
+'2004-08-01':
+- based: Frinton
+  description: Started my first paper round.
+  doing: Delivering newspapers
+  headline: 📰 First Paper Round
+
+'2005-02-01':
+- headline: 🖥️ Bought my own computer
+  description: I saved up from my paper round and bought my own computer.
+
+'2006-06-01':
+- headline: 🏆 First Micro Mouse Competition
+  description: I created a maze solving micromouse and took it to the UK competitions, even though it was far from fit-for purpose.
+
+'2006-09-01':
+- headline: 🎓 6th Form
+  description: I remained in Frinton for 6th form.
+
+'2009-09-01':
+- association: Bristol University
+  based: Bristol
+  description: Moved to Bristol to study Computer Science and Electronics.
+  doing: Student
+  headline: 🎓 University
+
+'2012-11-01':
+- description: Lawyers v.s. Engineers.
+  headline: ❤️ First Date with A
+
+'2013-07-01':
+- description: Graduated with a First Class Honours in Computer Science and Electronics.
+  headline: 🎓 University
+
+'2015-04-20':
+- headline: 💍 Got engaged to A
+  description: Engaged to A
+
+'2015-08-01':
+- description: Pivoted Zoetrope to IoT consultancy.
+  headline: Zoetrope
+
+'2017-08-01':
+- headline: 💍 Married A
+  description: Married A in Bristol.
+
+'2018-07-01':
+- based: Bristol
+  description: Closed down Zoetrope.
+  headline: Closed Zoetrope
+
+'2019-02-01':
+- description: Bought my first house.
+  headline: 🏡 First House Purchase
+
+'2022-07-01':
+- based: Bristol
+  description: Joined Neuronostics.
+  headline: Neuronostics
+
+'2022-11-01':
+- description: Bought my second house.
+  headline: 🏡 Second House Purchase
+
+'2024-02-29':
+- description: My first child, A² was born.
+  headline: 👶 Birth of A²
+
+'2025-04-01':
+- based: Bristol
+  description: Left Neuronostics.
+  headline: Neuronostics
+
+'2080-01-01':
+- headline: ☠️ Life expectancy
