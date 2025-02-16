@@ -1,9 +1,9 @@
-baseURL = 'https://weeks.ginatrapani.org/'
-languageCode = 'en-us'
+baseURL = 'https://weeks.ben-howes.co.uk/'
+languageCode = 'en-GB'
 title = 'My Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
 enableEmoji = true
 
 
 [params]
-author = "Gina Trapani"
+author = "Ben Howes"
