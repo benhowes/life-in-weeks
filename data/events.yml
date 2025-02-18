@@ -8,7 +8,7 @@
   doing: I was tiny
   headline: 🐣 I was born
 
-'1996-01-01':
+'1995-09-01':
 - association: Bentfield Primary School
   description: ''
   doing: Student
@@ -26,15 +26,19 @@
 - description: My dad built a x86 computer from parts for me and my sister R to use.
   headline: 🖥️ First access to a computer
 
+'2001-07-01':
+- based: Frinton
+  headline: 🚛 moved to Frinton-on-sea
+
 '2002-09-01':
 - based: Frinton
   description: ''
   headline: 🎓 High School
+  association: Tendring Technology College
 
 '2004-08-01':
 - based: Frinton
   description: Started my first paper round.
-  doing: Delivering newspapers
   headline: 📰 First Paper Round
 
 '2005-02-01':
@@ -45,14 +49,15 @@
 - headline: 🏆 First Micro Mouse Competition
   description: I created a maze solving micromouse and took it to the UK competitions, even though it was far from fit-for purpose.
 
-'2006-09-01':
+'2007-09-01':
 - headline: 🎓 6th Form
+  doing: 6th Form
   description: I remained in Frinton for 6th form.
 
 '2009-09-01':
-- association: Bristol University
+- association: University of Bristol
   based: Bristol
-  description: Moved to Bristol to study Computer Science and Electronics.
+  description: Moved to Bristol to study Computer Science and Electronics at UoBristol.
   doing: Student
   headline: 🎓 University
 
@@ -60,17 +65,24 @@
 - description: Lawyers v.s. Engineers.
   headline: ❤️ First Date with A
 
-'2013-07-01':
+'2013-07-14':
 - description: Graduated with a First Class Honours in Computer Science and Electronics.
-  headline: 🎓 University
+  headline: 🎓 Graduated MEng
+
+'2013-08-01':
+- based: Bristol
+  doing: Working
+  description: Set to work on my own company right away.
+  headline: 💼 Started Zoetrope
+  association: My own company
 
 '2015-04-20':
 - headline: 💍 Got engaged to A
   description: Engaged to A
 
 '2015-08-01':
-- description: Pivoted Zoetrope to IoT consultancy.
-  headline: Zoetrope
+- description: Pivoted Zoetrope to IoT consultancy. The business was failing. Very stressful time.
+  headline: ♻️ Zoetrope emergency pivot
 
 '2017-08-01':
 - headline: 💍 Married A
@@ -79,7 +91,8 @@
 '2018-07-01':
 - based: Bristol
   description: Closed down Zoetrope.
-  headline: Closed Zoetrope
+  headline: 🪓 Closed Zoetrope, started freelance
+  association: Freelance
 
 '2019-02-01':
 - description: Bought my first house.
@@ -88,20 +101,21 @@
 '2022-07-01':
 - based: Bristol
   description: Joined Neuronostics.
-  headline: Neuronostics
+  headline: 🧠 Joined Neuronostics
+  association: Neuronostics
 
 '2022-11-01':
 - description: Bought my second house.
   headline: 🏡 Second House Purchase
 
 '2024-02-29':
-- description: My first child, A² was born.
-  headline: 👶 Birth of A²
+- description: My first child, A₂ was born.
+  headline: 👶 Birth of A₂
 
 '2025-04-01':
 - based: Bristol
   description: Left Neuronostics.
-  headline: Neuronostics
+  headline: 🧠 Left Neuronostics
 
 '2080-01-01':
 - headline: ☠️ Life expectancy

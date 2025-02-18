@@ -25,9 +25,12 @@
 - class_name: "student"
   element: "background-color"
   color_name: "#E8F9FF"
-- class_name: "delivering-newspapers"
+- class_name: "6th-form"
   element: "background-color"
   color_name: "#F8E7F6"
+- class_name: "working"
+  element: "background-color"
+  color_name: "#d6d6f0"
 
 # Legacy entries (commented out as no longer used)
 #- class_name: "brooklyn"
