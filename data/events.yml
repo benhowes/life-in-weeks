@@ -102,6 +102,14 @@
 - headline: 🌱 Started working on Hedira
   description: Started working on Hedira with Jess. https://ben-howes.co.uk/hedira/
 
+'2020-03-01':
+- headline: 🦠 First COVID lockdown
+  description: Back when we didn't know if it was the end of the world or not.
+
+'2021-04-01':
+- headline: 😺 Mishka joined us
+  description: We got a very special cat called Mishka.
+
 '2022-01-01':
 - headline: 🌱 Exited Hedira
   description: Jess, Robb and I sold Hedira. https://ben-howes.co.uk/hedira/
@@ -116,9 +124,21 @@
 - description: Bought my second house.
   headline: 🏡 Second House Purchase
 
+'2022-12-01':
+- headline: 😺 Niko joined us
+  description: We got a very special cat called Niko.
+
 '2024-02-29':
 - description: My first child, A₂ was born.
   headline: 👶 Birth of A₂
+
+'2024-12-01':
+- headline: 💔 Mishka departed
+  description: Mishka left us. Her Kidneys could not cope.
+
+'2025-02-28':
+- description: A₂ starting to grow up
+  headline: 👶 A₂ turned 1
 
 '2025-04-01':
 - based: Bristol
